@@ -122,6 +122,4 @@ Tipik seçim süreleri: ~1-5 µs/seçim
 - NumPy 1.24+
 - Matplotlib 3.7+
 
-## Lisans
 
-MIT
